@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicozez!
-- 👀 I’m interested in biotechnology, mechatronics, and behavioural sciences. I also really like music production.
-- 🌱 I’m currently studying mechanical engineering / computer science @ Stanford. Specifically, with an intent to focus on product realization in mechanical engineering and quantitative finance using CS. I also plan to minor in music technology.
-- 💞️ I’m looking to collaborate on anything to do with the intersection of biology, economics, or psychology with tech.
+- 👀 I’m interested in biotechnology, mechatronics, and financial markets. I also really like musical performance.
+- 🌱 I’m currently studying electrical engineering & music @ Stanford. Specifically, with an intent to focus on signal processing, musical hardware, and machine learning.
+- 💞️ I’m looking to collaborate on anything to do with the intersection of biology, economics / psychology, or music with tech.
 - 📫 nicozez@stanford.edu. 
 
 <!---
