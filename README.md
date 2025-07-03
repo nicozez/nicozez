@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicozez! Currently studying EE and the creative arts @ Stanford. 
-- Interested in how the creative arts and technology intersect. I also really like musical performance and ChucK.
-- Focus on signal processing, musical hardware, and ML.
+- Interested in how the body and technology intersects. I also really like musical performance and ChucK.
+- Focussing on signal processing, autonomous implants, ophthalmology and ML.
 - 📫 nicozez@stanford.edu. 
 
 <!---
